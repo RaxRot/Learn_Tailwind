@@ -1,0 +1,25 @@
+# Node
+node_modules
+dist
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# WebStorm
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Tailwind generated
+*.css.map
+
+# Vite
+.env
+.env.*.local
+
+# Optional cache folders
+.vite/
